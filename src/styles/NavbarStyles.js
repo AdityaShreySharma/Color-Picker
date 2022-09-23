@@ -27,7 +27,8 @@ const styles = {
   },
 
   levelSlider: {
-    paddingLeft: "10px"
+    paddingLeft: "10px", 
+    paddingRight: "10px"
   },
 
   slider: {
