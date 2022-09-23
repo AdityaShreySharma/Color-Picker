@@ -6,3 +6,18 @@
   top: 0;
   transition: opacity 0.4s ease-in-out;
 }
+
+.page-enter 
+{
+  opacity: 0;
+}
+
+.page-enter-active 
+{
+  opacity: 1;
+}
+
+.page-exit-active 
+{
+  opacity: 0;
+}
